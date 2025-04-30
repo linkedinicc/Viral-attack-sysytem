@@ -1,2 +1,2 @@
-# Viral-attack-sysytem
-AI system for viral Linkedin growth 
+# Viral Attack System
+AI system for viral LinkedIn growth.
